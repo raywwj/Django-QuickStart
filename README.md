@@ -1,0 +1,2 @@
+this is a simple example of using Django to build a web  
+This project was finished when I watched tutorials on bilibili, and the code in it is supposed to come from the book "Python Programming from Getting Started to Practice", written by Eric Matthes
